@@ -4,7 +4,7 @@
 2. Dipper
 3. Supervised Fine-Tuning
 4. AuthorMist
-### We used 2 Open Source Detector:
+### We used 2 Open Source Detector Models:
 1. RADAR
 2. WILD
 #### NOTE: When you clone this repo, please make sure you change your directories to run the right models and scripts.
