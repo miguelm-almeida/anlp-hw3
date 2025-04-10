@@ -13,3 +13,6 @@ Steps:
 2. Open the notebook
 3. Make sure your datasets are included (check corresponding readme files)
 4. Run the cells one by one on the notebook
+#### NOTE: Please make sure you follow the steps outlined in the model's corresponding README files
+
+HAVE FUN ANALYZING!
