@@ -56,7 +56,7 @@ def main():
     df = pd.read_csv('subset_data.csv')
     df = df[df['model'].isin(['llama-3', 'gpt-4o'])]
     ai_texts = df['response'].tolist()
-    output_csv = "dipper_paraphrased_results.csv"
+    output_csv = "paraphrased_results.csv"
     prefix_prompt = "Please paraphrase the following text to make it more human-like while preserving the original meaning."
 
     # Initialize paraphraser
